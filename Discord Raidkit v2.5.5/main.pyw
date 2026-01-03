@@ -1,22 +1,3 @@
-"""
-Discord Raidkit v2.5.5 by the-cult-of-integral
-
-An open-source, forever free tool that allows you to raid and destroy 
-Discord servers via Discord bots,  compromise Discord accounts, and 
-generate Discord token grabbers. 
-
-Please submit any issues you encounter to the GitHub repository at:
-https://github.com/the-cult-of-integral/discord-raidkit/issues/
-
-This helps me stay on track with maintaining the project and fixing bugs!
-
-This project is for educational purposes only. I am not responsible for
-any damage caused by this tool. By using this tool for non-educational
-For this reason, you accept responsibility for any action caused. 
-
-Use at your own risk.
-"""
-
 import time
 import sys
 import webbrowser
